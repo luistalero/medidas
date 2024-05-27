@@ -1,7 +1,7 @@
 *{
     background-color: #ffffff;
 }
-body{
+.dody{
     flex-direction: row-reverse;
     display: inline-flex;
     margin: 2vh 4.554vw 2vh 4.554vw;
