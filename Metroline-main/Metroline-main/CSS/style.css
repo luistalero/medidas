@@ -1,18 +1,13 @@
 *{
     background-color: #ffffff;
-    font-size: 1vmax;
 }
 .dody{
-    border: 1px solid black;
     flex-direction: row-reverse;
     display: inline-flex;
-    border: 1px solid black;
-    width: 50%;
-    
-    margin: 50px 50px 50px 450px;
+    margin: 5vh 4.554vw;
 }
 .container{
-    padding: 30px;
+    padding: 3vh 2.732vw;
 }
 header{
     display: flex;
@@ -21,7 +16,7 @@ header{
 .link__a{
     display: inline-block;
     text-decoration: none;
-    padding: 10px;
+    padding: 1vh 0.911vw;
     color: black;
 }
 .link__a:hover{
@@ -33,11 +28,11 @@ header{
 .inferior{
     display: flex;
     justify-content: space-between; 
-    margin: 20px;
+    margin: 2vh 1.821vw;
 }
 .verde{
     border: solid black;
     background-color: #D5FF43;
-    padding: 5px;
+    padding: 0.5vh 0.455vw;
 }
 
