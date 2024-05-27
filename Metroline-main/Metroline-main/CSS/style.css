@@ -1,10 +1,11 @@
 *{
     background-color: #ffffff;
+
 }
-.dody{
+body{
     flex-direction: row-reverse;
     display: inline-flex;
-    margin: 5vh 4.554vw;
+    margin: 2vh 4.554vw 2vh 4.554vw;
 }
 .container{
     padding: 3vh 2.732vw;
@@ -35,4 +36,8 @@ header{
     background-color: #D5FF43;
     padding: 0.5vh 0.455vw;
 }
+.rec{
+    padding: 3vh 2.732vw;
+}
+
 
