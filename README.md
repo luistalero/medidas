@@ -1,1 +1,1 @@
-treiner solo cambia la medida al inspeccionar con F12
+treiner solo cambia la medida al inspeccionar con F12, aveces :(
