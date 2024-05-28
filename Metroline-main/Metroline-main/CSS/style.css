@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 *{
     background-color: #ffffff;
+    font-family: "Open Sans", sans-serif;
 }
 .dody{
     flex-direction: row-reverse;
@@ -7,6 +9,7 @@
     margin: 2vh 4.554vw 2vh 4.554vw;
 }
 .container{
+    display: grid;
     padding: 3vh 2.732vw;
 }
 header{
@@ -38,5 +41,3 @@ header{
 .rec{
     padding: 3vh 2.732vw;
 }
-
-
